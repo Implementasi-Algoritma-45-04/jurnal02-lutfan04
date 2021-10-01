@@ -1,5 +1,5 @@
 # Jurnal Modul 02
 
-NIM: 
+NIM: 6706210099
 
-Nama: 
+Nama: Lutfan Davi
